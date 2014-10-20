@@ -1,0 +1,13 @@
+{
+  "name": "moogs",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/moogs",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "keywords": [
+    "moogs"
+  ],
+  "license": "MIT"
+}
